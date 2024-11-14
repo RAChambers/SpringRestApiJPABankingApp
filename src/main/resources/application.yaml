@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url:  jdbc:mysql://localhost:3306/banking_client?usSSL=false
+    username: root
+    password: Diamonds77
+
+#JPA Settings
+  jpa.hibernate.ddl_auto: create
